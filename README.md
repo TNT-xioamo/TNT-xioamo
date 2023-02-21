@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💯 人生如逆旅，我亦是行人 ~
+readme
+    
+🤦‍♂️ 我叫 Stark，也可以叫我鱼子西
+🧑‍💻 一枚前端开发工程师，坐标西安
+📧 邮箱：liuxingcoco@icloud.com
+🔗 博客：https://sunny-com.vercel.app
+🔗 掘金：https://juejin.cn/user/2911162523200781
