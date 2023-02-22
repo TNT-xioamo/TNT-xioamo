@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TNT-xioamo/TNT-xioamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💯 人生如逆旅，我亦是行人 ~
+## 💯 人生如逆旅，我亦是行人 ~
 
 - 🤦‍♂️ 我叫 Stark，也可以叫我鱼子西
 - 🧑‍💻 一枚前端开发工程师，坐标西安
