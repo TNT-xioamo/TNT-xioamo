@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Auto always green
         run: |
-          git config --local user.email "liuxingcoco@icloud.com" # 此处替换成你GitHub的邮箱地址 
-          git config --local user.name "TNT-xiaomo" # 此处替换成你GitHub的账号昵称
+          git config --local user.email "liuxingcoco@icloud.com"
+          git config --local user.name "TNT-xiaomo"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "no bugs,no bugs!"
